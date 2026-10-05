@@ -34,7 +34,7 @@ for common IT help desk scenarios. Built from hands-on IT support experience.
 - [Email Sync Issues](Office365/2-Email-Sync-Problems.md)
 - [License Management & Activation](Office365/3-License-Management.md)
 - [Account Recovery & Unlocking](Office365/4-Account-Recovery.md)
-- [OneDrive Sync Issues](Office365/5-OneDrive-Troubleshooting.md)
+- [OneDrive Sync Issues](Office365/5-OneDrive-Sync-Issue.md)
 
 ---
 
