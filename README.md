@@ -23,7 +23,7 @@ for common IT help desk scenarios. Built from hands-on IT support experience.
 - [Windows Login & Password Issues](Windows/1-Login-Password-Reset.md)
 - [Windows Update Problems](Windows/2-Windows-Update-Issues.md)
 - [Device Manager & Driver Issues](Windows/3-Driver-Installation.md)
-- [Windows Activation & Licensing](Windows/4-Windows-Activation.md)
+- [Windows Activation & Licensing](Windows/4-Windows-Activation-and-Licensing.md)
 
 ---
 
