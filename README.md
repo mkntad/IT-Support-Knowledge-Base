@@ -30,7 +30,7 @@ for common IT help desk scenarios. Built from hands-on IT support experience.
 ## Office 365 & Email
 
 ### Common Issues
-- [Outlook Configuration & Setup](Office365/1-Outlook-Setup.md)
+- [Outlook Configuration & Setup](Office365/1-Outlook-Configuration.md)
 - [Email Sync Issues](Office365/2-Email-Sync-Problems.md)
 - [License Management & Activation](Office365/3-License-Management.md)
 - [Account Recovery & Unlocking](Office365/4-Account-Recovery.md)
