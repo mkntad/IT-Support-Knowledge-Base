@@ -42,31 +42,31 @@ for common IT help desk scenarios. Built from hands-on IT support experience.
 
 ### Common Issues
 - [VPN Connection Issues](Networking/1-VPN-Connectivity.md)
-- [WiFi Connectivity Problems](Networking/2-WiFi-Troubleshooting.md)
-- [Network Printer Setup](Networking/3-Printer-Setup.md)
-- [DNS Resolution Issues](Networking/4-DNS-Troubleshooting.md)
-- [Slow Network Speeds](Networking/5-Network-Performance.md)
+- [WiFi Connectivity Problems](Networking/2-WiFi-Connectivity-Problems.md)
+- [Network Printer Setup](Networking/3-Network-Printer-Setup.md)
+- [DNS Resolution Issues](Networking/4-DNS-Resolution-Issues.md)
+- [Slow Network Speeds](Networking/5-Slow-Network-Speeds.md)
 
 ---
 
 ## Hardware & Peripherals
 
 ### Common Issues
-- [Printer Drivers & Connectivity](Hardware/1-Printer-Issues.md)
-- [USB Device Recognition](Hardware/2-USB-Device-Issues.md)
-- [Monitor & Display Problems](Hardware/3-Display-Issues.md)
-- [Audio Device Issues](Hardware/4-Audio-Problems.md)
-- [BIOS & Hardware Diagnostics](Hardware/5-BIOS-Diagnostics.md)
+- [Printer Drivers & Connectivity](Hardware/1-Printer-Drivers-Connectivity.md)
+- [USB Device Recognition](Hardware/2-USB-Device-Recognition.md)
+- [Monitor & Display Problems](Hardware/3-Monitor-and-Display-Problems.md)
+- [Audio Device Issues](Hardware/4-Audio-Device-Issues.md)
+- [BIOS & Hardware Diagnostics](Hardware/5-BIOS-and-Hardware-Diagnostics.md)
 
 ---
 
 ## Security & Access
 
 ### Common Issues
-- [Password Reset Procedures](Security/1-Password-Reset.md)
-- [Account Lockout Resolution](Security/2-Account-Lockout.md)
-- [Permission Denied Errors](Security/3-Permission-Errors.md)
-- [Antivirus & Malware Removal](Security/4-Antivirus-Troubleshooting.md)
+- [Password Reset Procedures](Security/1-Password-Reset-Procedures.md)
+- [Account Lockout Resolution](Security/2-Account-Lockout-Resolution.md)
+- [Permission Denied Errors](Security/3-Permission-Denied-Errors.md)
+- [Antivirus & Malware Removal](Security/4-Antivirus-and-Malware-Removal.md)
 
 ---
 
