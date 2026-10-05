@@ -52,7 +52,7 @@ for common IT help desk scenarios. Built from hands-on IT support experience.
 ## Hardware & Peripherals
 
 ### Common Issues
-- [Printer Drivers & Connectivity](Hardware/1-Printer-Drivers-Connectivity.md)
+- [Printer Drivers & Connectivity](Hardware/1-Printer-Drivers-and-Connectivity.md)
 - [USB Device Recognition](Hardware/2-USB-Device-Recognition.md)
 - [Monitor & Display Problems](Hardware/3-Monitor-and-Display-Problems.md)
 - [Audio Device Issues](Hardware/4-Audio-Device-Issues.md)
